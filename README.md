@@ -60,8 +60,6 @@ Process 1 received message from Process 0, updated matrix clock: [[1, 0, 0], [1,
 
 ---
 ## Contributors
-- **Your Name** (your.email@example.com)
+- **Hamza Mahmood** (hamzamahmood165@gmail.com)
 
-## License
-MIT License
 
